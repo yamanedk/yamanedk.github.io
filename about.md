@@ -23,15 +23,10 @@ Some stuff about me include:
 * You can find me in the outdoors hiking, camping, or fishing with my dad.
 * I am half Japanese and half Mexican; yes, I know I don't look Hispanic and filling applications out gets tricky when they ask for your ethnicity and don't give you an option to identify as multiracial. 
 * Recently began an obession with collecting plants - yes, I am a Millenial.
-* I listen to Indie Pop/Rock music on the daily, trying to find the latest hits like the hipster I am. Check out my top songs of 2019 below(<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1Etj0EVW7xNQMf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>)
+* I listen to Indie Pop/Rock music on the daily, trying to find the latest hits like the hipster I am. Check out my top songs of 2019 below
 <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1Etj0EVW7xNQMf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 I used Lanyon, built by [@mdo](https://twitter.com/mdo) as a template for this site; all credit goes to him.
 
 Thanks for reading!
-
-
-<p class="message">
-  Feel free to reach out to me with any questions/concerns!
-</p>
