@@ -3,11 +3,6 @@ layout: page
 title: Who I Am
 ---
 
-<p class="message">
-  Feel free to reach out to me with any questions/concerns!
-</p>
-
-
 Hello there! My name is Danielle Yamane and I am a compassionate, driven individual who strives to be the best version of myself as I continue on this journey of life. I'm going through a quarter life crisis and decided to create this as a medium for my excitement, curiousity and much more.
 
 Social Media:
@@ -35,3 +30,8 @@ Some stuff about me include:
 I used Lanyon, built by [@mdo](https://twitter.com/mdo) as a template for this site; all credit goes to him.
 
 Thanks for reading!
+
+
+<p class="message">
+  Feel free to reach out to me with any questions/concerns!
+</p>
