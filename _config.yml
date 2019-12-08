@@ -8,8 +8,10 @@ permalink:        pretty
 # Setup
 title:            Danielle Yamane
 tagline:          '25'
-description:      '/n/n A site filled with my thoughts and experiences curated for your enjoyment.'
-url:              http://yamanedl.github.io
+description:      '
+
+                  A site filled with my thoughts and experiences curated for your enjoyment.'
+url:              http://yamanedk.github.io
 
 author:
   name:           'Danielle'
@@ -18,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.0.1
+#version:          2.0.1
 
 github:
   repo:           https://github.com/yamanedk/yamanedk.github.io
