@@ -3,6 +3,6 @@ layout: post
 title: What is this?
 ---
 
-This is a site I created based on[Jekyll](http://jekyllrb.com) using the Lanyon template. 
+This is a site I created based on [Jekyll](http://jekyllrb.com) using the Lanyon template. First attempt at making a personal blog site and post.
 
   > I created this for personal use more than for the public; if you happen to be reading this, please hold judgement! I most likely will not be putting very personal stuff as I am a generally private person; I wanted a space to share my creativity and all. #mightdeletelater
